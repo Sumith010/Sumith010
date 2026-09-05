@@ -1,18 +1,246 @@
-# 💫 About Me:
-🔭 Currently working on: Agentic RAG pipelines, voice AI agents, and LLM document-processing systems in production<br><br>🌱 Currently learning: Agentic AI architectures & multimodal RAG (GraphRAG, hybrid retrieval)<br><br>👯 Looking to collaborate on: GenAI tools for real-world automation — especially in eLearning & document workflows<br><br>💬 Ask me about: RAG pipelines, LangChain/LangGraph, real-time voice agents (LiveKit/Gemini Live), or building with Claude/MCP<br><br>⚡ Fun fact: I once cut a 4-5 day content creation workflow down to under 5 minutes using a blueprint-then-parallel-generation LLM pipeline
+<!--
+  ╔══════════════════════════════════════════════════════════════╗
+  ║  SUMITH R NAIK — GitHub Profile README                        ║
+  ║  See the MAINTENANCE note at the bottom before editing.       ║
+  ╚══════════════════════════════════════════════════════════════╝
+-->
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=230&section=header&text=SUMITH%20R%20NAIK&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=GenAI%20Developer%20%C2%B7%20RAG%20%26%20Agents%20%C2%B7%20Voice%20AI&descAlignY=53&descSize=18" alt="header" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumith-r-naik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumithrnaik07@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sumith010&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sumith010&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sumith010&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=GenAI+Developer+%F0%9F%A4%96;Agentic+RAG+%26+LLM+Pipelines+%F0%9F%A7%A0;Real-Time+Voice+Agents+%F0%9F%8E%99%EF%B8%8F;Document+Intelligence+%26+Automation+%E2%9A%A1;Shipping+AI+That+Actually+Runs+in+Prod+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
----
-[![](https://komarev.com/ghpvc/?username=Sumith010&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://komarev.com/ghpvc/?username=Sumith010&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Sumith010?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0D1117" alt="followers" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-3ECF8E?style=for-the-badge&labelColor=0D1117" alt="open to collaborate" />
+<img src="https://img.shields.io/badge/Focus-GenAI%20%2B%20Agents-A855F7?style=for-the-badge&labelColor=0D1117" alt="AI focus" />
+<img src="https://img.shields.io/badge/Based%20in-Mangalore%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-FF6B6B?style=for-the-badge&labelColor=0D1117" alt="India" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
+
+## 💫 About Me
+
+```yaml
+name:      Sumith R Naik
+role:      GenAI Developer
+location:  Mangalore, India 🇮🇳
+current_focus:
+  - Agentic RAG pipelines over messy real-world documents
+  - LLM-based extraction, OCR and reconciliation systems
+  - Low-latency voice agents (LiveKit · WebRTC · Gemini Live)
+  - Full-stack delivery: Next.js + FastAPI + Supabase on GCP
+philosophy: "Ship the boring plumbing. That's where the value hides."
+fun_fact:   "Cut a 4–5 day content workflow down to under 5 minutes."
+```
+
+A year of building GenAI systems that made it to **production**, not just to a demo — document
+pipelines that replaced manual data entry, wage-reconciliation APIs with fraud detection, and
+voice tutors that hold a real conversation. I like the unglamorous parts: chunking strategies,
+retrieval evals, token-cost dashboards, and the async job queue that keeps it all upright.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
+
+## 🔭 What I Build
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧠 RAG & Agentic Systems
+`LangGraph` `LangChain` `MCP`
+- Multimodal RAG over 100+ internal docs
+- Chunking, hybrid retrieval & GraphRAG evals
+- Tool-using agents with MCP servers
+- Vector search: Pinecone · FAISS · ChromaDB
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 Document Intelligence
+`Gemini` `Vertex AI` `FastAPI`
+- Bulk OCR across 500+ scans per batch
+- LLM extraction + fuzzy code matching
+- Fraud & tampering detection pipelines
+- Token usage and cost monitoring
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🎙️ Real-Time Voice AI
+`LiveKit` `WebRTC` `Gemini Live`
+- Persona design & turn-taking logic
+- Interruption handling at low latency
+- STT/TTS streaming over WebSockets
+- Conversation evaluation loops
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack Delivery
+`Next.js` `NestJS` `React Native`
+- Production apps with real users (150+)
+- Realtime attendance over WebSockets
+- Postgres · Supabase · REST APIs
+- Deploys on GCP Cloud Run & Vercel
+
+</td>
+  </tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Core**
+
+<img src="https://skillicons.dev/icons?i=py,ts,js,html,css,bash&theme=dark" alt="languages" />
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark" alt="frontend" />
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,postgres,supabase,sqlite,prisma&theme=dark" alt="backend" />
+
+**Cloud & Tooling**
+
+<img src="https://skillicons.dev/icons?i=gcp,vercel,docker,git,github,vscode,postman,linux&theme=dark" alt="devops" />
+
+<br/>
+
+**🤖 AI, Agents & Orchestration**
+
+<img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Vertex%20AI-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP%20Servers-00D9FF?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-1A1A1A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LiveKit-1F1F1F?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
+
+## 📊 GitHub Analytics
+
+<!--
+  SIZING RULE — READ BEFORE CHANGING ANY width= BELOW.
+  These cards do NOT share a native width, so a uniform percentage
+  renders their text at different sizes. Keep width proportional to
+  native width, targeting a render scale of ~0.140:
+      700px native -> 98%
+      495px native -> 69%
+      340px native -> 48%
+-->
+
+<div align="center">
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sumith010&theme=github_dark" alt="profile details" />
+
+<br/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sumith010&theme=github_dark" alt="stats" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sumith010&theme=github_dark&utcOffset=5.5" alt="productive time" />
+
+<br/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sumith010&theme=github_dark" alt="repos per language" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sumith010&theme=github_dark" alt="most commit language" />
+
+<br/>
+
+<img width="69%" src="https://streak-stats.demolab.com/?user=Sumith010&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=FF6B6B&currStreakLabel=00d9ff" alt="streak" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
+
+## 🐍 Watch My Contributions Get Eaten
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sumith010/Sumith010/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sumith010/Sumith010/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Sumith010/Sumith010/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=Sumith010&theme=algolia&no-frame=true&no-bg=true&margin-w=6&margin-h=6&row=1&column=6" alt="trophies" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" alt="divider" />
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sumith-r-naik" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:sumithrnaik07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Sumith010" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>⚡ "Automate the tedious. Ship the useful." ⚡</h3>
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-00D9FF?style=for-the-badge&labelColor=0D1117" alt="thanks" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=140&section=footer&animation=twinkling" alt="footer" />
+
+<!--
+  ═══════════════════════ MAINTENANCE ═══════════════════════
+
+  SNAKE ANIMATION — requires a one-time GitHub Action setup.
+  Until the workflow runs, the image 404s and GitHub renders it
+  as a plain text link. Add .github/workflows/snake.yml with the
+  Platane/snk action, run it once from the Actions tab, and
+  confirm an "output" branch appears in this repo.
+
+  KNOWN-DEAD HOSTS (free instances that go down periodically):
+    - github-profile-trophy.vercel.app  -> 402, use the
+      github-trophies.vercel.app mirror (already used above).
+    - github-readme-activity-graph.vercel.app -> 402.
+    - github-readme-stats.vercel.app -> intermittent 503; the
+      profile-summary-cards above are the more stable option.
+
+  IF A CARD GOES BLANK: paste its URL into a browser. A 402 or
+  503 means that host went down — swap in a mirror.
+
+  BADGE COLORS: shields.io needs a real hex or named color.
+  A leftover "color=0" placeholder renders as "Color not valid".
+-->
