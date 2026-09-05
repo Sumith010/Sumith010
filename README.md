@@ -40,7 +40,7 @@ philosophy: "Ship the boring plumbing. That's where the value hides."
 fun_fact:   "Cut a 4–5 day content workflow down to under 5 minutes."
 ```
 
-A year of building GenAI systems that made it to **production**, not just to a demo — document
+A year of building GenAI systems that made it to **production**, not just to a demo.Document
 pipelines that replaced manual data entry, wage-reconciliation APIs with fraud detection, and
 voice tutors that hold a real conversation. I like the unglamorous parts: chunking strategies,
 retrieval evals, token-cost dashboards, and the async job queue that keeps it all upright.
