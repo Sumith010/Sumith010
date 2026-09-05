@@ -5,7 +5,7 @@
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=230&section=header&text=SUMITH%20R%20NAIK&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=GenAI%20Developer%20%C2%B7%20RAG%20%26%20Agents%20%C2%B7%20Voice%20AI&descAlignY=53&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=SUMITH%20R%20NAIK&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&v=2" alt="header" />
 
 <div align="center">
 
